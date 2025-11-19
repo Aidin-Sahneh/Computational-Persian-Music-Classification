@@ -1,7 +1,6 @@
 Computational Classification of Persian Musical Modes
 =====================================================
 
-**Repository:** [https://github.com/Aidin-Sahneh/Computational-Persian-Music-Classification](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/Aidin-Sahneh/Computational-Persian-Music-Classification)
 
 Abstract
 --------
