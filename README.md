@@ -20,7 +20,6 @@ Project Structure
 
 The repository is organized as follows:
 
-Plaintext
 
 ```
 ├── data/
