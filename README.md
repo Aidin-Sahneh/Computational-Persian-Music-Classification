@@ -115,7 +115,6 @@ Getting Started
 
 To reproduce the results, clone the repository and install the dependencies:
 
-Bash
 
 ```
 git clone https://github.com/Aidin-Sahneh/Computational-Persian-Music-Classification.git
